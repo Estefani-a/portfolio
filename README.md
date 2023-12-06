@@ -1,11 +1,10 @@
 <h1 align="center"> <strong>Portfolio</strong> </h1>
 
 ### About
-El objetivo del sitio web es mostrar mi experiencia profesional y mi formacion academica.
+The objective of this website is to present my professional experience and academic training in a clear and accessible way.
 
 ### Technologies
-El sitio web fue realizado utilizando Bootstrap, HTML, CSS y JavaScript. <br>
-En el siguiente link es posible visualizar el sitio: https://estefani-a.github.io/portfolio/
+The website was developed using a combination of Bootstrap, HTML, CSS, and JavaScript to create a seamless and dynamic user experience. You can explore the live site [here](https://estefani-a.github.io/portfolio/) to witness these technologies in action.
 
 <p align="center">
   <br>
